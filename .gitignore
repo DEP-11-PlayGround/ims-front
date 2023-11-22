@@ -1,0 +1,4 @@
+node_mpodules/
+.parcel-cache/
+.vscode/
+.DS_Store
